@@ -108,10 +108,11 @@ html, body{
 }
 .content-p1{
     /* background-color: red; */
+    padding: 0 3vw;
 }
 .content-p1 img{
     height: 100%;
-    width: 93.5vw;
+    width: 100%;
 }
 
 
