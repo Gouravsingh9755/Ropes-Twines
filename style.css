@@ -841,8 +841,8 @@ html, body{
 
 
 .circle-l-p6, .circle-r-p6{
-    height: 23vh;
-    width: 11vw;
+    height: 140px;
+    width: 140px;
     border: 6px solid black;
     border-radius: 50%;
     position: relative;
