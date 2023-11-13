@@ -106,6 +106,13 @@ html, body{
     font-weight: 100;
     letter-spacing: 4px;
 }
+.content-p1{
+    /* background-color: red; */
+}
+.content-p1 img{
+    height: 100%;
+    width: 93.5vw;
+}
 
 
 .content2-p1{
@@ -117,6 +124,7 @@ html, body{
     justify-content: space-between;
     padding: 0px 40px;
 }
+
 
 .content2-p1>h4{
 
