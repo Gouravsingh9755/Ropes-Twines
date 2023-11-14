@@ -31,11 +31,9 @@ html, body{
 
 .nav{
 
-    height: 30vh;
+    height: 25vh;
     width: 100vw;
     /* background-color: rgb(201, 181, 95); */
-    font-family: fantasy;
-    font-weight: 100;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -54,7 +52,7 @@ html, body{
 }
 
 .lnav>h3{
-    font-size: 3vw;
+    font-size: 2.5vw;
     font-weight: 100;
     font-family:'Bebas Neue', sans-serif;
     
@@ -72,7 +70,7 @@ html, body{
 
 .nav-btn{
 
-    padding: 30px 50px;
+    padding: 10px 40px;
     font-family:'Bebas Neue', sans-serif;
     font-size: 3vw;
      font-weight: 100;
@@ -92,27 +90,23 @@ html, body{
 
     height: 30vh;
     width: 100vw;
-    /* background-color: blanchedalmond; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    /* background-color: rgb(73, 198, 59); */
+    padding: 0vw 3vw;
 }
 
-.content-p1>h1{
+/* .content-p1>h1{
 
    
     font-size: 14vw;
     font-family: fantasy;
     font-weight: 100;
     letter-spacing: 4px;
-}
-.content-p1{
-    /* background-color: red; */
-    padding: 0 3vw;
-}
+} */
+
 .content-p1 img{
     height: 100%;
     width: 100%;
+    /* background-color: aqua; */
 }
 
 
@@ -121,7 +115,7 @@ html, body{
     width: 100vw;
     /* border: 1px solid black; */
     display: flex;
-    align-items: start;
+    align-items: center;
     justify-content: space-between;
     padding: 0px 40px;
 }
@@ -190,7 +184,7 @@ html, body{
         justify-content: space-between;
         padding-right: 0px;
         padding-left: 20px;
-        gap: 130px;
+        gap: 150px;
     }
 
     .content-p1{
@@ -201,6 +195,12 @@ html, body{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.content-p1 img{
+    height: 100vh;
+    width: 90vw;
+    /* background-color: aqua; */
 }
 
     .content-p1>h1{
@@ -731,12 +731,12 @@ html, body{
     .rcontent-p5{
         height: 40vh;
         width: 90vw;
-        /* background-color: rgb(104, 164, 184); */
+        background-color: rgb(104, 164, 184);
 
     }
     .imgbox-p5{
         height: 100vh;
-        width: 70vw;
+        width: 90vw;
         /* background-color: red; */
         overflow: hidden;
     }
@@ -744,7 +744,7 @@ html, body{
 
     .img-p5{
         height: 40vh;
-        width: 100%;
+        width: 100vw;
     }
 
     .lcontent-p5{
@@ -919,13 +919,15 @@ font-size: 3vw;
 
     .circle-l-p6>h1, .circle-r-p6>h1{
 
-top: 20%;
-left: 25%;
-font-weight: 100;
-font-size: 8vw;
+    top: 20%;
+    left: 25%;
+    font-weight: 100;
+    font-size: 8vw;
 
 
     }
+
+    
 
 }
 
@@ -1185,7 +1187,8 @@ width: 26vw;
 }
 
 .fm-bottom1>p{
-    font-size: 3.2vw;
+    /* font-size: 3.2vw; */
+    font-size: 43px;
     letter-spacing: 3px;
     line-height: 3.5vw;
     font-family:'Bebas Neue', sans-serif;
@@ -1239,9 +1242,10 @@ width: 26vw;
     align-items: start;
     justify-content: center;
     /* background-color: aqua; */
-    font-size: 1.39vw;
+    /* font-size: 1.39vw; */
+    font-size: 17px;
     font-family: monospace;
-    font-weight: 100;
+    font-weight: 700;
     line-height: 2vw;
     letter-spacing: 1px;  
     /* border: 1px solid black; */
